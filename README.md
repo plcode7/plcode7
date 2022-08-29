@@ -10,7 +10,7 @@ package pl.passcode.information;
 
 public class aboutMe {
     const passcode = {
-        pronouns: "she" | "her", 
+        pronouns: "he", 
         code:  [.Net Core, JAVA, Spring Boot, Spring,],
         tools: [Jmeter, Postman, Insomnia, JUnit, NUnit, Docker],
         architecture: ["microservices", "design system pattern","unit testing"],
