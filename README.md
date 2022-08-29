@@ -14,15 +14,7 @@ public class aboutMe {
         code:  [.Net Core, JAVA, Spring Boot, Spring,],
         tools: [Jmeter, Postman, Insomnia, JUnit, NUnit, Docker],
         architecture: ["microservices", "design system pattern","unit testing"],
-        new project{
-            name: whatTest 
-            language: Polish
-            goal: create a mini tutorial with a list of tools useful for testing system integration
-            start: 2021-11-05
-            end: 2022-06-05
-        }
-        challenge: "I am doing the #100DaysOfCode challenge focused on design pattern"
-    }
+       }
 }
 ```
 
